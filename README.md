@@ -4,7 +4,23 @@ Upload a map image and annotate it together with friends — markers, layers, no
 
 My friends and I always felt like we needed a more interactive map for the games we play: something that lets us drop in a map image and edit it together, at the same time. Kaels Map Tool works great as a second-screen map while you play — plan routes, mark loot, call out enemies, and ping locations for everyone to see.
 
-Built with **Godot 4.6**. Current version: **A0.0.1**.
+Built with **Godot 4.6**. Current version: **[A0.0.1](https://github.com/KaelKodes/Kaels-Map-Tool/releases/tag/A0.0.1)**.
+
+## Download
+
+**Use the exported build** — that is the intended way to run Kaels Map Tool.
+
+1. Go to **[Releases](https://github.com/KaelKodes/Kaels-Map-Tool/releases)** and download **A0.0.1** for your platform.
+2. Extract and run the app. No Godot install required.
+
+Everyone in a session should use the **same release version** when playing together.
+
+<details>
+<summary>Running from source (developers only)</summary>
+
+Clone this repo and open it in [Godot 4.6](https://godotengine.org/) if you are contributing or testing unreleased changes. Players should use the release build above instead.
+
+</details>
 
 ## Features
 
@@ -28,7 +44,7 @@ Save your work as a `.kmap` file (map image + layers, markers, and notes). Open 
 
 ## Getting Started
 
-1. Open the project in [Godot 4.6](https://godotengine.org/) and run it, or use a exported build.
+1. **Download** the latest [release](https://github.com/KaelKodes/Kaels-Map-Tool/releases) and run the app.
 2. Click **New Map** to upload a map image.
 3. Use **Add Marker** to place markers, then click them to edit notes.
 4. To play together: one person clicks **Host**, others enter the host IP and click **Join**.
