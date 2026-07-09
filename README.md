@@ -1,4 +1,5 @@
 # Kaels Map Tool
+![Kael's Map Tool Banner](https://imgur.com/3wv43Z2)
 
 Upload a map image and annotate it together with friends — markers, layers, notes, and pings — in real time.
 
